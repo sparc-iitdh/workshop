@@ -13,13 +13,13 @@ Dept of EE, I.I.T Bombay
 Friedrich-Alexander Universität Erlangen-Nürnberg  
  <br/><br/> 
  <img src="https://www.dur.ac.uk/images/music/Staffmugshots/martin_clayton.jpg" alt="" height="150" width="110" align="right"/> 
- <br/><br/><br/>  
+ <br/><br/>  
  
 * Prof Martin CLayton  
 Department of Music, University of Durham
  <br/><br/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Xavier_Serra_1%2C_Music_Hack_Day_Barcelona_2012.jpg" alt="" height="150" width="100" align="right"/>
- <br/><br/><br/>  
+ <br/><br/>  
  
 * Prof Xavier Serra  
 Music Technology Group, UPF Barcelona
