@@ -7,3 +7,6 @@ December 2-6, 2019
 Dept of EE, I.I.T Bombay
 
 ### Speakers
+* Prof. Meinard Muller
+![Image of Prof Muller](https://www.audiolabs-erlangen.de/thumbs/portrait-1ab656c0f02e88d65baab15492175195.jpg)
+
