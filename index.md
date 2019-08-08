@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Workshop on Audio Signal Processing for Computational Musicology
 
-You can use the [editor on GitHub](https://github.com/wasp-cm/wasp-cm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Computational Musicology is an interdisciplinary area involving the application of computing methods to analyze music corpora and gain possibly new insights about the musical genre.  While sheet music has provided the basis for most Western music studies, Indian classical traditions can benefit from advances in digital audio processing.  Audio signal processing provides representations of music that can be compared and studied to obtain valuable insights about performance practice. This workshop will cover audio signal processing for melody and rhythm analyses and corpora design, and further, address the development of tools for musicological analyses of concert recordings. The final day will host a panel discussion with eminent musicians on identifying questions in Indian musicology that can benefit from empirical studies using the tools.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### When?
+December 2-6, 2019
 
-### Markdown
+### Where?
+Dept of EE, I.I.T Bombay
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wasp-cm/wasp-cm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Speakers
