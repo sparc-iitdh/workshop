@@ -13,7 +13,7 @@ Dept of EE, I.I.T Bombay
 Friedrich-Alexander Universität Erlangen-Nürnberg  
  <br/><br/> 
  <img src="https://www.dur.ac.uk/images/music/Staffmugshots/martin_clayton.jpg" alt="" height="150" width="110" align="right"/> 
- <br/><br/>  
+ <br/><br/><br/>  
  
 * Prof Martin CLayton  
 Department of Music, University of Durham
