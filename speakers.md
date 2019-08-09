@@ -1,3 +1,5 @@
+<img src="https://www.audiolabs-erlangen.de/thumbs/portrait-1ab656c0f02e88d65baab15492175195.jpg" alt="" height="150" width="120" align="right"/>  
+
 ### Speakers
 * <a href="https://www.audiolabs-erlangen.de/fau/professor/mueller">Prof. Meinard Muller</a>  
 Friedrich-Alexander Universität Erlangen-Nürnberg  
