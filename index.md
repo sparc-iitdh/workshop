@@ -7,7 +7,7 @@ December 2-6, 2019
 ### Where?
 Dept of EE, I.I.T Bombay
 
-```
+<!--
 <img src="https://www.audiolabs-erlangen.de/thumbs/portrait-1ab656c0f02e88d65baab15492175195.jpg" alt="" height="150" width="120" align="right"/>  
 
 ### Speakers
@@ -26,7 +26,7 @@ Department of Music, University of Durham
 * <a href="https://www.upf.edu/web/xavier-serra">Prof Xavier Serra</a>  
 Music Technology Group, UPF Barcelona  
 <br/><br/><br/>  
-```
+-->
 
 ### Topics
 * Content-based Music Retrieval  
@@ -36,7 +36,7 @@ Music Technology Group, UPF Barcelona
 * Tools for Computational Musicology   
 * Empirical Musicology for Indian Classical Genres  
 
-```
+
 ### Expected background
 Participants are expected to have a strong background (3+ years of undergraduate curriculum) in two or more of the following: programming, signal processing, music. Researchers and musicians with an interest in technology are welcome.  
 
@@ -47,4 +47,4 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/prao">Prof Preeti Rao</a>  
 Dept. of Electrical Engg., I.I.T. Bombay  
 E-mail: <a href="prao@ee.iitb.ac.in">prao@ee.iitb.ac.in</a>
-```
+
