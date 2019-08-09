@@ -36,7 +36,7 @@ Music Technology Group, UPF Barcelona
 * Tools for Computational Musicology   
 * Empirical Musicology for Indian Classical Genres  
 
-
+<!--
 ### Expected background
 Participants are expected to have a strong background (3+ years of undergraduate curriculum) in two or more of the following: programming, signal processing, music. Researchers and musicians with an interest in technology are welcome.  
 
@@ -48,3 +48,4 @@ Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gl
 Dept. of Electrical Engg., I.I.T. Bombay  
 E-mail: <a href="prao@ee.iitb.ac.in">prao@ee.iitb.ac.in</a>
 
+-->
