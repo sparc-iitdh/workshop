@@ -17,6 +17,6 @@ Dept of EE, I.I.T Bombay
 
 ### Organized by
 
-<img src="logos.png" alt="" align="center" height="150"/> 
+<img src="logos.png" alt="" class="center" height="150"/> 
 
 <br/><br/>  
