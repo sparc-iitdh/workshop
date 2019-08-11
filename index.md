@@ -17,7 +17,7 @@ Dept of EE, I.I.T Bombay
 
 ### Organized by
 
-<p style="text-align:left;">
+<p style="text-align:left;" hspace="100">
    Dept. of Electrical Engg., I.I.T. Bombay
     <span style="float:right;">
         SPARC, Govt of India       
