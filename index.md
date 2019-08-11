@@ -16,8 +16,6 @@ Dept of EE, I.I.T Bombay
 * Empirical Musicology for Indian Classical Genres  
 
 ### Organized by
-<span class="right">Right aligned</span><span class="left">Left aligned</span>​
-
 
 <p style="text-align:left;">
    Dept. of Electrical Engg., I.I.T. Bombay
@@ -26,3 +24,4 @@ Dept of EE, I.I.T Bombay
     </span>
 </p>
 <img src="https://sparc.iitkgp.ac.in/assets/images/sparc.png" alt="" align="right"/> 
+<img src="https://gymkhana.iitb.ac.in/~researchbook/webresource/iitbblack.jpg" height="117" alt="" align="left"/> 
