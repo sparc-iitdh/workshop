@@ -7,27 +7,6 @@ December 2-6, 2019
 ### Where?
 Dept of EE, I.I.T Bombay
 
-<!--
-<img src="https://www.audiolabs-erlangen.de/thumbs/portrait-1ab656c0f02e88d65baab15492175195.jpg" alt="" height="150" width="120" align="right"/>  
-
-### Speakers
-* <a href="https://www.audiolabs-erlangen.de/fau/professor/mueller">Prof. Meinard Muller</a>  
-Friedrich-Alexander Universität Erlangen-Nürnberg  
- <br/><br/>  
- <img src="https://www.dur.ac.uk/images/music/Staffmugshots/martin_clayton.jpg" alt="" height="150" width="110" align="right"/>
- <br/><br/><br/>
- 
-* <a href="https://www.dur.ac.uk/music/staff/?id=8693">Prof Martin CLayton</a>  
-Department of Music, University of Durham  
- <br/><br/> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Xavier_Serra_1%2C_Music_Hack_Day_Barcelona_2012.jpg" alt="" height="150" width="100" align="right"/>
- <br/><br/>  
- 
-* <a href="https://www.upf.edu/web/xavier-serra">Prof Xavier Serra</a>  
-Music Technology Group, UPF Barcelona  
-<br/><br/><br/>  
--->
-
 ### Topics
 * Content-based Music Retrieval  
 * Audio Features  
@@ -36,16 +15,14 @@ Music Technology Group, UPF Barcelona
 * Tools for Computational Musicology   
 * Empirical Musicology for Indian Classical Genres  
 
-<!--
-### Expected background
-Participants are expected to have a strong background (3+ years of undergraduate curriculum) in two or more of the following: programming, signal processing, music. Researchers and musicians with an interest in technology are welcome.  
+### Organized by
+<span class="right">Right aligned</span><span class="left">Left aligned</span>​
 
-**Space is limited. Please fill out the pre-registration form if interested, and we will get back to you with further instructions by September 10.**  
-Link to the form: <a href="https://forms.gle/dLoJbC3Ljc5vBhgp8">https://forms.gle/dLoJbC3Ljc5vBhgp8</a>  
 
-### Workshop Coordinator
-<a href="https://www.ee.iitb.ac.in/web/people/faculty/home/prao">Prof Preeti Rao</a>  
-Dept. of Electrical Engg., I.I.T. Bombay  
-E-mail: <a href="prao@ee.iitb.ac.in">prao@ee.iitb.ac.in</a>
-
--->
+<p style="text-align:left;">
+   Dept. of Electrical Engg., I.I.T. Bombay
+    <span style="float:right;">
+        SPARC, Govt of India
+    </span>
+</p>
+<img src="https://sparc.iitkgp.ac.in/assets/images/sparc.png" alt="" align="right"/> 
