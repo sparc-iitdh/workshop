@@ -11,6 +11,5 @@ Link to the form: <a href="https://forms.gle/S89psKShF47zRqJy7">https://forms.gl
 
 For any questions, please contact the course co-ordinators: 
 
-Prof. Dhiraj Patil (dhiraj@iitdh.ac.in) 
-
-Dr. Ajay Srinivasamurthy (ajays.murthy@iitdh.ac.in)
+* Prof. Dhiraj V. Patil (dhiraj@iitdh.ac.in) 
+* Dr. Ajay Srinivasamurthy (ajays.murthy@iitdh.ac.in)
