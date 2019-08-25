@@ -14,26 +14,15 @@ IIT Dharwad
 * Day 4: Wind Instruments: Pipe impulse response
 * Day 5: Measurements: Vibrational/acoustic measurement techniques
 
-### Resource Persons:
+### Speakers:
 * Prof. Gary Scavone, Schulich School of Music, McGill University, Canada
 * Prof. Xavier Serra, Music Technology Group, Universitat Pompeu Fabra, Barcelona, Spain
-* Prof. SRM Prasanna, Dept. of Electrical Engineering, IIT Dharwad, India
+* Prof. S R Mahadeva Prasanna, Dept. of Electrical Engineering, IIT Dharwad, India
 * Prof. Hema A Murthy, Dept. of Computer Science and Engineering, IIT Madras, India
+
 ### Course Coordinators:
 * Prof. Dhiraj V. Patil, Dept. of Mechanical Engineering, IIT Dharwad, India
-* Dr. Ajay Srinivasamurthy, Applied Scientist at Amazon.com, Bangalore, India
-
-### Registrations:
-* Expected Participants: 3rd/4th year undergraduates in Engg. and Music Technology,
-* ME/MTech/MS, Research scholars, Industrial persons.
-
-Participants are desired to have a strong background (3+ years of undergraduate
-curriculum) in two or more of the following: signal processing, programming, artificial
-intelligence/machine learning, music. Research scholars and musicians with an interest in
-technology are welcome.
-
-Please fill out the pre-registration form, if interested. (Limited seats). We will get back to you
-with further instructions by October 10, 2019.  
+* Dr. Ajay Srinivasamurthy, Applied Scientist, Amazon.com, Bengaluru, India
 
 ### Organized by
 
