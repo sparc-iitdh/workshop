@@ -1,18 +1,27 @@
-<img src="https://www.audiolabs-erlangen.de/thumbs/portrait-1ab656c0f02e88d65baab15492175195.jpg" alt="" height="150" width="120" align="right"/>  
+<img src="http://www.music.mcgill.ca/~gary/images/gary2.jpg" alt="" height="150" width="120" align="right"/>  
 <br/><br/>  
 
-* <a href="https://www.audiolabs-erlangen.de/fau/professor/mueller">Prof. Meinard Muller</a>  
-Friedrich-Alexander Universität Erlangen-Nürnberg  
+* <a href="http://www.music.mcgill.ca/~gary/">Prof. Gary Scavone</a>  
+Schulich School of Music, McGill University, Canada
  <br/><br/>  
- <img src="https://www.dur.ac.uk/images/music/Staffmugshots/martin_clayton.jpg" alt="" height="150" width="110" align="right"/>
- <br/><br/><br/>
- 
-* <a href="https://www.dur.ac.uk/music/staff/?id=8693">Prof Martin CLayton</a>  
-Department of Music, Durham University
- <br/><br/> 
+  
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Xavier_Serra_1%2C_Music_Hack_Day_Barcelona_2012.jpg" alt="" height="150" width="100" align="right"/>
  <br/><br/>  
  
 * <a href="https://www.upf.edu/web/xavier-serra">Prof Xavier Serra</a>  
 Music Technology Group, UPF Barcelona  
+<br/><br/><br/> 
+
+ <img src="https://www.iitdh.ac.in/prasanna/profile.jpg" alt="" height="150" width="100" align="right"/>
+ <br/><br/>  
+ 
+* <a href="https://www.iitdh.ac.in/prasanna/">Prof S R Mahadeva Prasanna</a>  
+Dept. of Electrical Engineering, IIT Dharwad, India 
+<br/><br/><br/> 
+
+ <img src="https://www.cse.iitm.ac.in/images/HAM.jpg" alt="" height="150" width="100" align="right"/>
+ <br/><br/>  
+ 
+* <a href="https://www.cse.iitm.ac.in/profile.php?arg=Mjk=">Prof Hema Murthy</a>  
+Dept. of Computer Science and Engineering, IIT Madras, India
 <br/><br/><br/> 
