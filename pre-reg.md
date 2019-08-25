@@ -8,3 +8,9 @@ Participants are desired to have a strong background (3+ years of undergraduate 
 with further instructions by October 10, 2019.  
 
 Link to the form: <a href="https://forms.gle/S89psKShF47zRqJy7">https://forms.gle/S89psKShF47zRqJy7</a> 
+
+For any questions, please contact the course co-ordinators: 
+
+Prof. Dhiraj Patil (dhiraj@iitdh.ac.in) 
+
+Dr. Ajay Srinivasamurthy (ajays.murthy@iitdh.ac.in)
