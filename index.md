@@ -27,6 +27,6 @@ IIT Dharwad
 
 ### Organized by
 
-<img src="logos1.png" alt="" class="center" height="150"/> 
+<img src="logos.png" alt="" class="center" height="150"/> 
 
 <br/><br/>  
