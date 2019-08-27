@@ -17,8 +17,9 @@ IIT Dharwad
 ### Speakers:
 * Prof. Gary Scavone, Schulich School of Music, McGill University, Canada
 * Prof. Xavier Serra, Music Technology Group, Universitat Pompeu Fabra, Barcelona, Spain
-* Prof. S R Mahadeva Prasanna, Dept. of Electrical Engineering, IIT Dharwad, India
+* Prof. Preeti Rao, Dept. of Electrical Engineering, IIT Bombay, India
 * Prof. Hema A Murthy, Dept. of Computer Science and Engineering, IIT Madras, India
+* Prof. S R Mahadeva Prasanna, Dept. of Electrical Engineering, IIT Dharwad, India
 
 ### Course Coordinators:
 * Prof. Dhiraj V. Patil, Dept. of Mechanical Engineering, IIT Dharwad, India
