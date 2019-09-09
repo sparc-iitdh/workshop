@@ -12,7 +12,7 @@ Schulich School of Music, McGill University, Canada
 Music Technology Group, UPF Barcelona  
 <br/><br/><br/> 
 
- <img src="https://www.iitdh.ac.in/prasanna/profile.jpg" alt="" height="150" width="100" align="right"/>
+ <img src="https://github.com/ajaysmurthy/iitdh-sparc/blob/master/IMG_0589.JPG" alt="" height="150" width="100" align="right"/>
  <br/><br/>  
  
 * <a href="https://www.iitdh.ac.in/prasanna/">Prof S R Mahadeva Prasanna</a>  
