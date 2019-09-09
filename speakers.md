@@ -12,7 +12,6 @@ Schulich School of Music, McGill University, Canada
 Department of Electrical Engineering, IIT Bombay, India
  <br/><br/>    
   
-  
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Xavier_Serra_1%2C_Music_Hack_Day_Barcelona_2012.jpg" alt="" height="150" width="120" align="right"/>
 <br/><br/>  
  
