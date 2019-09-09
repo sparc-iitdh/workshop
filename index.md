@@ -7,12 +7,17 @@ December 9-13, 2019
 ### Where?
 IIT Dharwad
 
+### 9th December, 2019
+* Invited Talks by Prof. Gary Scavone, Prof. Xavier Serra, Prof. Preeti Rao, and Prof. Hema Murthy
+* Panel Discussion
+* Muscial Concert
+
 ### Course Content:
-* Day 1: Acoustic Modeling and Acoustic Wave Simulation
-* Day 2: String Instruments: Digital waveguide modeling, Karplus-Strong
-* Day 3: String Instruments: Commuted synthesis, piano hammer
-* Day 4: Wind Instruments: Pipe impulse response
-* Day 5: Measurements: Vibrational/acoustic measurement techniques
+* Acoustic Modeling and Acoustic Wave Simulation
+* String Instruments: Digital waveguide modeling, Karplus-Strong
+* String Instruments: Commuted synthesis, piano hammer
+* Wind Instruments: Pipe impulse response
+* Measurements: Vibrational/acoustic measurement techniques
 
 ### Speakers:
 * Prof. Gary Scavone, Schulich School of Music, McGill University, Canada
