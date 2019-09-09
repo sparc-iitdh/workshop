@@ -6,7 +6,7 @@ Schulich School of Music, McGill University, Canada
  <br/><br/>  
  <br/><br/>
  
- <img src="https://github.com/ajaysmurthy/iitdh-sparc/blob/master/prao.jpg" alt="" height="150" width="120" align="right"/>  
+ <img src="prao.jpg" alt="" height="150" width="120" align="right"/>  
 <br/><br/>  
 
 * <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/prao">Prof. Preeti Rao</a>  
@@ -22,7 +22,7 @@ Music Technology Group, UPF Barcelona
 <br/><br/>
 <br/><br/>
 
-<img src="https://github.com/ajaysmurthy/iitdh-sparc/blob/master/HAM.jpg" alt="" height="150" width="120" align="right"/>
+<img src="HAM.jpg" alt="" height="150" width="120" align="right"/>
 <br/><br/>  
  
 * <a href="https://www.cse.iitm.ac.in/profile.php?arg=Mjk=">Prof Hema Murthy</a>  
@@ -30,7 +30,7 @@ Dept. of Computer Science and Engineering, IIT Madras, India
 <br/><br/>
 <br/><br/>
 
-<img src="https://github.com/ajaysmurthy/iitdh-sparc/blob/master/IMG_0589.JPG" alt="" height="150" width="120" align="right"/>
+<img src="IMG_0589.JPG" alt="" height="150" width="120" align="right"/>
 <br/><br/>  
  
 * <a href="https://www.iitdh.ac.in/prasanna/">Prof S R Mahadeva Prasanna</a>  
