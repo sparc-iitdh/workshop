@@ -4,6 +4,13 @@
 * <a href="http://www.music.mcgill.ca/~gary/">Prof. Gary Scavone</a>  
 Schulich School of Music, McGill University, Canada
  <br/><br/>  
+ 
+ <img src="http://www.music.mcgill.ca/~gary/images/gary2.jpg" alt="" height="150" width="120" align="right"/>  
+<br/><br/>  
+
+* <a href="http://www.music.mcgill.ca/~gary/">Prof. Gary Scavone</a>  
+Schulich School of Music, McGill University, Canada
+ <br/><br/>  
   
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Xavier_Serra_1%2C_Music_Hack_Day_Barcelona_2012.jpg" alt="" height="150" width="100" align="right"/>
  <br/><br/>  
