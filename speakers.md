@@ -19,7 +19,7 @@ Music Technology Group, UPF Barcelona
 Dept. of Electrical Engineering, IIT Dharwad, India 
 <br/><br/><br/> 
 
- <img src="https://www.cse.iitm.ac.in/images/HAM.jpg" alt="" height="150" width="100" align="right"/>
+ <img src="https://github.com/ajaysmurthy/iitdh-sparc/blob/master/HAM.jpg" alt="" height="150" width="100" align="right"/>
  <br/><br/>  
  
 * <a href="https://www.cse.iitm.ac.in/profile.php?arg=Mjk=">Prof Hema Murthy</a>  
