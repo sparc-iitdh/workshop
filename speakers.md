@@ -5,7 +5,7 @@
 Schulich School of Music, McGill University, Canada
  <br/><br/>  
  
- <img src="http://www.music.mcgill.ca/~gary/images/gary2.jpg" alt="" height="150" width="120" align="right"/>  
+ <img src="https://github.com/ajaysmurthy/iitdh-sparc/blob/master/prao.jpg" alt="" height="150" width="120" align="right"/>  
 <br/><br/>  
 
 * <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/prao">Prof. Preeti Rao</a>  
