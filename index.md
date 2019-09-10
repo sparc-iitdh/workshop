@@ -10,7 +10,7 @@ IIT Dharwad
 ### 9th December, 2019
 * Invited Talks by Prof. Gary Scavone, Prof. Xavier Serra, Prof. Preeti Rao, and Prof. Hema Murthy
 * Panel Discussion
-* Muscial Concert
+* Musical Concert
 
 ### Course Content:
 * Acoustic Modeling and Acoustic Wave Simulation
