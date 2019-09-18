@@ -11,6 +11,14 @@ with further instructions by **October 10, 2019**
 
 Link to the pre-registration form: <a href="https://forms.gle/S89psKShF47zRqJy7">https://forms.gle/S89psKShF47zRqJy7</a> 
 
+Registration Fees: 
+
+The workshop is free for Research Scholars/Master and B.Tech students
+
+Participants from academia apart from students/research scholars: INR 3000
+
+Working professionals from non-academic organizations: INR 6000
+
 For any questions, please contact the course co-ordinators: 
 
 * Prof. Dhiraj V. Patil (dhiraj@iitdh.ac.in) 
