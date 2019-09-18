@@ -13,11 +13,11 @@ Link to the pre-registration form: <a href="https://forms.gle/S89psKShF47zRqJy7"
 
 Registration Fees: 
 
-The workshop is free for Research Scholars/Master and B.Tech students
-
-Participants from academia apart from students/research scholars: INR 3000
-
-Working professionals from non-academic organizations: INR 6000
+| Affiliation                         | Fees in INR |
+|-------------------------------------|------------:|
+| Students/Research Scholars          |           0 |
+| Postdocs/Faculty from academia      |        3000 |
+| Working professionals from industry |        6000 |
 
 For any questions, please contact the course co-ordinators: 
 
