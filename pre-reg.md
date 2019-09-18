@@ -17,7 +17,7 @@ Registration Fees:
 |-------------------------------------|------------:|
 | Students/Research Scholars          |           0 |
 | Postdocs/Faculty from academia      |        3000 |
-| Working professionals from industry |        6000 |
+| Working professionals from non-academic institutions |        6000 |
 
 For any questions, please contact the course co-ordinators: 
 
