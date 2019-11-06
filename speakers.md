@@ -42,6 +42,6 @@ Dept. of Electrical Engineering, IIT Dharwad, India
 <br/><br/>  
  
 * <a href="http://grajnarayan.com/about-grajnarayan/">G Raj Narayan</a>  
-Founder, Chief Innovator and Managing Director at Radel
+Founder, Chief Innovator and Managing Director at <a href="https://www.radel.in/">Radel Electronics</a>
 <br/><br/>
 <br/><br/>
