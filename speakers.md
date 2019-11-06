@@ -1,4 +1,4 @@
-<img src="http://www.music.mcgill.ca/~gary/images/gary2.jpg" alt="" height="150" width="120" align="right"/>  
+<img src="http://www.music.mcgill.ca/~gary/images/gary2.jpg" alt="" height="150" width="150" align="right"/>  
 <br/><br/>  
 
 * <a href="http://www.music.mcgill.ca/~gary/">Prof. Gary Scavone</a>  
