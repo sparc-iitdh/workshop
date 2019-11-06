@@ -35,5 +35,11 @@ Dept. of Computer Science and Engineering, IIT Madras, India
  
 * <a href="https://www.iitdh.ac.in/prasanna/">Prof S R Mahadeva Prasanna</a>  
 Dept. of Electrical Engineering, IIT Dharwad, India 
+
+<img src="http://grajnarayan.com/wp-content/uploads/2014/11/Founder-GRN-624x689.jpg" alt="" height="150" width="120" align="right"/>
+<br/><br/>  
+ 
+* <a href="http://grajnarayan.com/about-grajnarayan/">G Raj Narayan</a>  
+Founder, Chief Innovator and Managing Director at Radel
 <br/><br/>
 <br/><br/>
