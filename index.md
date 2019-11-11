@@ -13,7 +13,7 @@ IIT Dharwad
 ### 09 Dec 2019: Public Seminar
 * Invited Talks by Prof. Gary Scavone, Prof. Xavier Serra, Prof. Preeti Rao, Prof. Hema Murthy and G Raj Narayan (Radel) on general topics in Music Technology and Music Instrument modeling
 * Panel Discussion
-* Musical Concert
+* Music Concert
 
 ### 10-13 Dec 2019: Course on Modeling of Music Instruments Course Content:
 * Acoustic Modeling and Acoustic Wave Simulation
