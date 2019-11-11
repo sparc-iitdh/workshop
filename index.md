@@ -7,12 +7,15 @@ December 9-13, 2019
 ### Where?
 IIT Dharwad
 
-### 9th December, 2019
-* Invited Talks by Prof. Gary Scavone, Prof. Xavier Serra, Prof. Preeti Rao, and Prof. Hema Murthy
+## Tentative Course Schedule
+(Detailed schedule will be published by Nov 20)
+
+### 09 Dec 2019: Public Seminar
+* Invited Talks by Prof. Gary Scavone, Prof. Xavier Serra, Prof. Preeti Rao, Prof. Hema Murthy and G Raj Narayan (Radel) on general topics in Music Technology and Music Instrument modeling
 * Panel Discussion
 * Musical Concert
 
-### Course Content:
+### 10-13 Dec 2019: Course on Modeling of Music Instruments Course Content:
 * Acoustic Modeling and Acoustic Wave Simulation
 * String Instruments: Digital waveguide modeling, Karplus-Strong
 * String Instruments: Commuted synthesis, piano hammer
@@ -25,6 +28,7 @@ IIT Dharwad
 * Prof. Preeti Rao, Dept. of Electrical Engineering, IIT Bombay, India
 * Prof. Hema A Murthy, Dept. of Computer Science and Engineering, IIT Madras, India
 * Prof. S R Mahadeva Prasanna, Dept. of Electrical Engineering, IIT Dharwad, India
+* G Raj Narayan, Chief Innovator and Managing Director, Radel 
 
 ### Course Coordinators:
 * Prof. Dhiraj V. Patil, Dept. of Mechanical Engineering, IIT Dharwad, India
