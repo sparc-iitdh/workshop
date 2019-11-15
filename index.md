@@ -5,7 +5,13 @@ This one-week course will focus on methods for discrete-time modeling and sound 
 December 9-13, 2019
 
 ### Where?
-IIT Dharwad
+Main Auditorium
+[IIT Dharwad](https://www.iitdh.ac.in/)
+WALMI Campus, 
+PB Road, near High Court, 
+Dharwad, Karnataka 580011
+[Locate on Google Maps](https://goo.gl/maps/xjfVT1gWUL48Ea7b9)
+[Directions to the campus](https://www.iitdh.ac.in/contact.php)
 
 ### Program
 
