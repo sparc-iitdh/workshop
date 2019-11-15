@@ -1,4 +1,4 @@
-##Tentative Schedule
+## Tentative Schedule
 ### 09 Dec 2019 (Mon): Public Seminar on Music Technology and Music Instrument Modeling
 
 _(Title and abstract for the talks will be updated shortly)_
