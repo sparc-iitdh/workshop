@@ -2,19 +2,19 @@
 
 (Title and abstract for the talks will be updated shortly)
 
-| -------------- | ------------------: |
-|09.00 - 09.15|Inauguration and opening remarks (Prof. Mahadeva Prasanna)|
-|09.15 - 09.45|	Introduction and Background (Ajay Srinivasamurthy)|
-|09.45 - 10.30|	Invited talk (Prof. Gary Scavone)|
-|10.30 - 11.00|	_Break_|
-|11.00 - 11.45|		Invited talk (Prof. Xavier Serra)|
-|11.45 - 12.30|		Invited talk (G Raj Narayan)|
-|12.30 - 14.00|		_Break_|
-|14.00 - 14.45| 	Invited talk (Prof. Preeti Rao)|
-|14.45 - 15.30|		Invited talk (Prof. Hema Murthy)|
-|15.30 - 16.00| _Break_|
-|16.00 - 17.00| Panel Discussion, Q&A session (Prof. Gary Scavone, Prof. Xavier Serra, Prof. Hema Murthy, Prof. Preeti Rao, Prof. Mahadeva Prasanna, G Raj Narayan, Moderator: Ajay Srinivasamurthy)|
-|17.30 - 18.30|		Music Concert (by students of IIT Dharwad Music Club)|
+ -------------- | ------------------: 
+ 09.00 - 09.15|Inauguration and opening remarks (Prof. Mahadeva Prasanna)
+ 09.15 - 09.45|	Introduction and Background (Ajay Srinivasamurthy)|
+ 09.45 - 10.30|	Invited talk (Prof. Gary Scavone)|
+ 10.30 - 11.00|	_Break_|
+ 11.00 - 11.45|		Invited talk (Prof. Xavier Serra)|
+ 11.45 - 12.30|		Invited talk (G Raj Narayan)|
+ 12.30 - 14.00|		_Break_|
+ 14.00 - 14.45| 	Invited talk (Prof. Preeti Rao)|
+ 14.45 - 15.30|		Invited talk (Prof. Hema Murthy)|
+ 15.30 - 16.00| _Break_|
+ 16.00 - 17.00| Panel Discussion, Q&A session (Prof. Gary Scavone, Prof. Xavier Serra, Prof. Hema Murthy, Prof. Preeti Rao, Prof. Mahadeva Prasanna, G Raj Narayan, Moderator: Ajay Srinivasamurthy)|
+ 17.30 - 18.30|		Music Concert (by students of IIT Dharwad Music Club)|
 
 ## 10-13 Dec 2019 (Tue-Fri)
 #### Hands-on course on musical instrument modeling (Prof. Gary Scavone)
