@@ -7,8 +7,7 @@ December 9-13, 2019
 ### Where?
 IIT Dharwad
 
-## Tentative Course Schedule
-(Detailed schedule will be published by Nov 20)
+## Program
 
 ### 09 Dec 2019: Public Seminar
 * Invited Talks by Prof. Gary Scavone, Prof. Xavier Serra, Prof. Preeti Rao, Prof. Hema Murthy and G Raj Narayan (Radel) on general topics in Music Technology and Music Instrument modeling
