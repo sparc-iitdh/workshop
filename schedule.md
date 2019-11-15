@@ -2,9 +2,7 @@
 
 (Title and abstract for the talks will be updated shortly)
 
-
-
-|--------------|------------------|
+| -------------- | ------------------: |
 |09.00 - 09.15|Inauguration and opening remarks (Prof. Mahadeva Prasanna)|
 |09.15 - 09.45|	Introduction and Background (Ajay Srinivasamurthy)|
 |09.45 - 10.30|	Invited talk (Prof. Gary Scavone)|
