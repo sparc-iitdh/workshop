@@ -19,9 +19,9 @@ _(Title and abstract for the talks will be updated shortly)_
 ### 10-13 Dec 2019 (Tue-Fri)
 #### Hands-on course on musical instrument modeling (Prof. Gary Scavone)
 
-09.30&#x2011;11.00 | Morning lecture session-1
+09.30&#x2011;11.00 | Lecture session-1
 11.00&#x2011;11.30 |	Break
-11.30&#x2011;13.00	|	Morning lecture session-2
+11.30&#x2011;13.00	|	Lecture session-2
 13.00&#x2011;14.30	|	Lunch break
 14.30&#x2011;16.30	|	Lab session
 
