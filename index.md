@@ -46,7 +46,7 @@ Dharwad, Karnataka 580011
 * Dr. Ajay Srinivasamurthy, Applied Scientist, Amazon.com, Bengaluru, India
 
 ### Related upcoming workshop
-Workshop on Audio Signal Processing for Computational Musicology at IIT Bombay (02-06 Dec 2019): https://wasp-cm.github.io/index.html
+Workshop on Audio Signal Processing for Computational Musicology at IIT Bombay (02-06 Dec 2019): [https://wasp-cm.github.io/index.html](https://wasp-cm.github.io/index.html)
 
 ### Organized by
 
