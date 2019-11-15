@@ -35,5 +35,5 @@ _(Title and abstract for the talks will be updated shortly)_
 **Note to Participants**: The lab sessions involve hands-on exercises to apply the tools and techniques learnt in the lecture. Participants are encouraged to bring their own laptops to work on exercises. A limited number of computers at IIT Dharwad will be available to participants. It is preferred to have MATLAB installed for doing exercises, while Python/Octave could be also used by participants if they are familiar with it. Participants bringing their own laptops are requested to install these packages on their computers. 
 
 ### Related upcoming workshop
-Workshop on Audio Signal Processing for Computational Musicology at IIT Bombay (02-06 Dec 2019): https://wasp-cm.github.io/index.html
+Workshop on Audio Signal Processing for Computational Musicology at IIT Bombay (02-06 Dec 2019): [https://wasp-cm.github.io/index.html](https://wasp-cm.github.io/index.html)
 
