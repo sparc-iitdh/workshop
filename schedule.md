@@ -1,6 +1,6 @@
 ## 09 Dec 2019 (Mon): Public Seminar on Music Technology and Music Instrument Modeling
 
-(Title and abstract for the talks will be updated shortly)
+(Title and abstract for the talks will be updated shortly)1
 
  09.00-09.15|Inauguration and opening remarks (Prof. Mahadeva Prasanna)
  09.15 - 09.45|	Introduction and Background (Ajay Srinivasamurthy)|
