@@ -5,7 +5,7 @@ This one-week course will focus on methods for discrete-time modeling and sound 
 December 9-13, 2019
 
 ### Where?
-Main Auditorium
+Room 23
 
 [IIT Dharwad](https://www.iitdh.ac.in/)
 
