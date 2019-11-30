@@ -14,7 +14,6 @@ _(Title and abstract for the talks will be updated shortly)_
  14.45&#x2011;15.30|		Invited talk (Prof. Hema Murthy)
  15.30&#x2011;16.00| _Break_
  16.00&#x2011;17.00| Panel Discussion, Q&A session (Prof. Gary Scavone, Prof. Xavier Serra, Prof. Hema Murthy, Prof. Preeti Rao, Prof. Mahadeva Prasanna, G Raj Narayan, Moderator: Ajay Srinivasamurthy)
- 17.30&#x2011;18.30|		Music Concert (by students of IIT Dharwad Music Club)
 
 ### 10-13 Dec 2019 (Tue-Fri)
 #### Hands-on course on musical instrument modeling (Prof. Gary Scavone)
