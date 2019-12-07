@@ -1,7 +1,5 @@
-## Tentative Schedule
+## Schedule
 ### 09 Dec 2019 (Mon): Public Seminar on Music Technology and Music Instrument Modeling
-
-_(Title and abstract for the talks will be updated shortly)_
 
  09.00&#x2011;09.15|Inauguration and opening remarks (Prof. Mahadeva Prasanna)
  09.15&#x2011;09.45|	Introduction and Background (Ajay Srinivasamurthy)
